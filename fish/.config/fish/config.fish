@@ -33,7 +33,7 @@ if status is-interactive
   abbr -a cd z
 
   # tmux and teamocil
-  abbr -a tm teamoci
+  abbr -a tm teamocil
 
   # Some dnf goodies
   abbr -a dnfu sudo dnf upgrade
